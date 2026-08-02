@@ -1,0 +1,5 @@
+Back: https://github.com/palomaalvarez-davinci/aplicaciones-hibridas-dw/tree/ed06d94ff6f9e3704a1d632b7176811ae096dfa4/back-minervalibros
+
+Front: https://github.com/palomaalvarez-davinci/aplicaciones-hibridas-dw/tree/ed06d94ff6f9e3704a1d632b7176811ae096dfa4/front-minervalibros
+
+Google drive: https://drive.google.com/drive/folders/12IBnzV5u0zDVQ8Pkr7ygXCwoaLpVVD5Y?usp=drive_link
