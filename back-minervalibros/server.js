@@ -1,6 +1,7 @@
 import "dotenv/config"
 import express from "express"
 import cors from "cors"
+import fs from "fs"
 import usuariosRoute from "./routes/usuarios.routes.js"
 import librosRoute from "./routes/libros.routes.js"
 import autoresRoute from "./routes/autores.routes.js"
@@ -12,6 +13,8 @@ const allowedOrigins = [
     "http://localhost:5173",
     process.env.FRONTEND_URL
 ].filter(Boolean)
+
+fs.mkdirSync("uploads", { recursive: true })
 
 app.use(express.json())
 
