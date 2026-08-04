@@ -2,7 +2,11 @@ Minerva Libros
 
 Minerva Libros es una aplicación para consultar, administrar y comprar libros. El proyecto cuenta con un backend API REST en Express/MongoDB y un frontend en React.
 
-Usuario de prueba
+Usuario de prueba:
+Email: user@test.com
+Password: asdasdasd
+Rol: user
+
 Usuario administrador:
 Email: admin@test.com
 Password: asdasd
